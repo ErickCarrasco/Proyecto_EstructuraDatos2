@@ -146,9 +146,7 @@ public class MainFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenu_ExitMouseClicked
 
     private void jMenu_ExitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenu_ExitActionPerformed
-
         System.exit(0);
-        // TODO add your handling code here:
     }//GEN-LAST:event_jMenu_ExitActionPerformed
 
     private void jMenu_Create_FileMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu_Create_FileMouseClicked
@@ -193,9 +191,6 @@ public class MainFrame extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_jMenu_Create_FileActionPerformed
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
